@@ -2,26 +2,16 @@
 
 Synerzip Test Automation Framework is a Java/Selenium/TestNG/Maven based framework to automate test cases for Web Applications. 
 
-## Directory Structure
+For More information, please refer [Wiki](https://github.com/Synerzip/synerzip-automation-framework/wiki)
 
-### src/test/java
-It contains the Base classes for Tests & Page Objects
+## Contribution
 
-### lib
-It contains libraries which are not available through Maven repository
+Fork & raise a pull request and/or write to [Roopesh Kohad](mailto:roopesh.kohad@synerzip.com)
 
-### log
-It contains log4j log for the Test Framework
+## License
 
-### driver
-It contains drivers for browsers - IE, Chrome, Safari etc.
+The License (see the [LICENSE](https://github.com/Synerzip/angular-calendar-directive/blob/master/LICENSE) file for full text)
 
-### data-files
-It can contain data files - csv or other formats.
+## About Synerzip
 
-### config
-It contains configuration to identify environment and its corresponding configuration
-
-### autoit
-It contains autoit scripts/exe for tacking OS dialogs like File Open. Note this tool is only for Windows.
-
+[Synerzip](www.synerzip.com) Synerzip offers in-depth expertise in Agile software product development to venture funded small/mid-sized software companies focused on social media, mobile, big data analytics, cloud and enterprise software. For more details please visit our [Website](www.synerzip.com)
